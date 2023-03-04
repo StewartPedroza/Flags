@@ -1,0 +1,11 @@
+C:\AppsDev VS Studio\Flags\bin\Debug\Flags.exe.config
+C:\AppsDev VS Studio\Flags\bin\Debug\Flags.exe
+C:\AppsDev VS Studio\Flags\bin\Debug\Flags.pdb
+C:\AppsDev VS Studio\Flags\obj\Debug\Flags.csproj.AssemblyReference.cache
+C:\AppsDev VS Studio\Flags\obj\Debug\Flags.csproj.SuggestedBindingRedirects.cache
+C:\AppsDev VS Studio\Flags\obj\Debug\Flags.Form1.resources
+C:\AppsDev VS Studio\Flags\obj\Debug\Flags.Properties.Resources.resources
+C:\AppsDev VS Studio\Flags\obj\Debug\Flags.csproj.GenerateResource.cache
+C:\AppsDev VS Studio\Flags\obj\Debug\Flags.csproj.CoreCompileInputs.cache
+C:\AppsDev VS Studio\Flags\obj\Debug\Flags.exe
+C:\AppsDev VS Studio\Flags\obj\Debug\Flags.pdb
